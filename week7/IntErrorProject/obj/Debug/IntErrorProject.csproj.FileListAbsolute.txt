@@ -1,0 +1,10 @@
+C:\Users\wlgh3\Desktop\윈프\week7\IntErrorProject\obj\Debug\IntErrorProject.csprojResolveAssemblyReference.cache
+C:\Users\wlgh3\Desktop\윈프\week7\IntErrorProject\obj\Debug\IntErrorProject.Form1.resources
+C:\Users\wlgh3\Desktop\윈프\week7\IntErrorProject\obj\Debug\IntErrorProject.Properties.Resources.resources
+C:\Users\wlgh3\Desktop\윈프\week7\IntErrorProject\obj\Debug\IntErrorProject.csproj.GenerateResource.cache
+C:\Users\wlgh3\Desktop\윈프\week7\IntErrorProject\obj\Debug\IntErrorProject.csproj.CoreCompileInputs.cache
+C:\Users\wlgh3\Desktop\윈프\week7\IntErrorProject\bin\Debug\IntErrorProject.exe.config
+C:\Users\wlgh3\Desktop\윈프\week7\IntErrorProject\bin\Debug\IntErrorProject.exe
+C:\Users\wlgh3\Desktop\윈프\week7\IntErrorProject\bin\Debug\IntErrorProject.pdb
+C:\Users\wlgh3\Desktop\윈프\week7\IntErrorProject\obj\Debug\IntErrorProject.exe
+C:\Users\wlgh3\Desktop\윈프\week7\IntErrorProject\obj\Debug\IntErrorProject.pdb

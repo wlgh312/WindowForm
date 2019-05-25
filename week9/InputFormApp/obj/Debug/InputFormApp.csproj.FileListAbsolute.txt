@@ -1,0 +1,11 @@
+C:\Users\wlgh3\Downloads\week9\InputFormApp\obj\Debug\InputFormApp.csprojResolveAssemblyReference.cache
+C:\Users\wlgh3\Downloads\week9\InputFormApp\obj\Debug\InputFormApp.Form1.resources
+C:\Users\wlgh3\Downloads\week9\InputFormApp\obj\Debug\InputFormApp.Properties.Resources.resources
+C:\Users\wlgh3\Downloads\week9\InputFormApp\obj\Debug\InputFormApp.ReceivedForm.resources
+C:\Users\wlgh3\Downloads\week9\InputFormApp\obj\Debug\InputFormApp.csproj.GenerateResource.cache
+C:\Users\wlgh3\Downloads\week9\InputFormApp\obj\Debug\InputFormApp.csproj.CoreCompileInputs.cache
+C:\Users\wlgh3\Downloads\week9\InputFormApp\bin\Debug\InputFormApp.exe.config
+C:\Users\wlgh3\Downloads\week9\InputFormApp\bin\Debug\InputFormApp.exe
+C:\Users\wlgh3\Downloads\week9\InputFormApp\bin\Debug\InputFormApp.pdb
+C:\Users\wlgh3\Downloads\week9\InputFormApp\obj\Debug\InputFormApp.exe
+C:\Users\wlgh3\Downloads\week9\InputFormApp\obj\Debug\InputFormApp.pdb

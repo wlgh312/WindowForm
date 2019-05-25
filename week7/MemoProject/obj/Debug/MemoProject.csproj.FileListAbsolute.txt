@@ -1,0 +1,10 @@
+C:\Users\wlgh3\Desktop\윈프\week7\MemoProject\obj\Debug\MemoProject.csprojResolveAssemblyReference.cache
+C:\Users\wlgh3\Desktop\윈프\week7\MemoProject\obj\Debug\MemoProject.Form1.resources
+C:\Users\wlgh3\Desktop\윈프\week7\MemoProject\obj\Debug\MemoProject.Properties.Resources.resources
+C:\Users\wlgh3\Desktop\윈프\week7\MemoProject\obj\Debug\MemoProject.csproj.GenerateResource.cache
+C:\Users\wlgh3\Desktop\윈프\week7\MemoProject\obj\Debug\MemoProject.csproj.CoreCompileInputs.cache
+C:\Users\wlgh3\Desktop\윈프\week7\MemoProject\bin\Debug\MemoProject.exe.config
+C:\Users\wlgh3\Desktop\윈프\week7\MemoProject\bin\Debug\MemoProject.exe
+C:\Users\wlgh3\Desktop\윈프\week7\MemoProject\bin\Debug\MemoProject.pdb
+C:\Users\wlgh3\Desktop\윈프\week7\MemoProject\obj\Debug\MemoProject.exe
+C:\Users\wlgh3\Desktop\윈프\week7\MemoProject\obj\Debug\MemoProject.pdb

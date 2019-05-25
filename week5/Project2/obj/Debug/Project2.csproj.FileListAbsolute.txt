@@ -1,0 +1,9 @@
+C:\Users\wlgh3\Desktop\윈프\week5\Project2\bin\Debug\Project2.exe.config
+C:\Users\wlgh3\Desktop\윈프\week5\Project2\bin\Debug\Project2.exe
+C:\Users\wlgh3\Desktop\윈프\week5\Project2\bin\Debug\Project2.pdb
+C:\Users\wlgh3\Desktop\윈프\week5\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\wlgh3\Desktop\윈프\week5\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\wlgh3\Desktop\윈프\week5\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\wlgh3\Desktop\윈프\week5\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\wlgh3\Desktop\윈프\week5\Project2\obj\Debug\Project2.exe
+C:\Users\wlgh3\Desktop\윈프\week5\Project2\obj\Debug\Project2.pdb

@@ -1,0 +1,10 @@
+C:\Users\wlgh3\Desktop\week6\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.csprojResolveAssemblyReference.cache
+C:\Users\wlgh3\Desktop\week6\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.Form1.resources
+C:\Users\wlgh3\Desktop\week6\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.Properties.Resources.resources
+C:\Users\wlgh3\Desktop\week6\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.csproj.GenerateResource.cache
+C:\Users\wlgh3\Desktop\week6\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.csproj.CoreCompileInputs.cache
+C:\Users\wlgh3\Desktop\week6\BookInfoWindowApp\bin\Debug\BookInfoWindowApp.exe.config
+C:\Users\wlgh3\Desktop\week6\BookInfoWindowApp\bin\Debug\BookInfoWindowApp.exe
+C:\Users\wlgh3\Desktop\week6\BookInfoWindowApp\bin\Debug\BookInfoWindowApp.pdb
+C:\Users\wlgh3\Desktop\week6\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.exe
+C:\Users\wlgh3\Desktop\week6\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.pdb

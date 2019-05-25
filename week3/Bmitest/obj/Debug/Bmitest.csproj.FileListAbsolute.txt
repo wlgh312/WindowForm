@@ -1,0 +1,9 @@
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Bmitest\bin\Debug\Bmitest.exe.config
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Bmitest\bin\Debug\Bmitest.exe
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Bmitest\bin\Debug\Bmitest.pdb
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Bmitest\obj\Debug\Bmitest.Form1.resources
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Bmitest\obj\Debug\Bmitest.Properties.Resources.resources
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Bmitest\obj\Debug\Bmitest.csproj.GenerateResource.cache
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Bmitest\obj\Debug\Bmitest.csproj.CoreCompileInputs.cache
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Bmitest\obj\Debug\Bmitest.exe
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Bmitest\obj\Debug\Bmitest.pdb

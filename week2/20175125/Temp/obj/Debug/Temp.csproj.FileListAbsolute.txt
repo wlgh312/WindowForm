@@ -1,0 +1,9 @@
+C:\Users\hallym\Desktop\윈프2주차\20175125\Temp\bin\Debug\Temp.exe.config
+C:\Users\hallym\Desktop\윈프2주차\20175125\Temp\bin\Debug\Temp.exe
+C:\Users\hallym\Desktop\윈프2주차\20175125\Temp\bin\Debug\Temp.pdb
+C:\Users\hallym\Desktop\윈프2주차\20175125\Temp\obj\Debug\Temp.Form1.resources
+C:\Users\hallym\Desktop\윈프2주차\20175125\Temp\obj\Debug\Temp.Properties.Resources.resources
+C:\Users\hallym\Desktop\윈프2주차\20175125\Temp\obj\Debug\Temp.csproj.GenerateResource.cache
+C:\Users\hallym\Desktop\윈프2주차\20175125\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache
+C:\Users\hallym\Desktop\윈프2주차\20175125\Temp\obj\Debug\Temp.exe
+C:\Users\hallym\Desktop\윈프2주차\20175125\Temp\obj\Debug\Temp.pdb

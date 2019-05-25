@@ -1,0 +1,20 @@
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Swap\obj\Debug\Swaptest.csprojAssemblyReference.cache
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Swap\obj\Debug\Swaptest.Form1.resources
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Swap\obj\Debug\Swap.Properties.Resources.resources
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Swap\obj\Debug\Swaptest.csproj.GenerateResource.cache
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Swap\obj\Debug\Swaptest.csproj.CoreCompileInputs.cache
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Swap\bin\Debug\Swap.exe.config
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Swap\bin\Debug\Swap.exe
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Swap\bin\Debug\Swap.pdb
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Swap\obj\Debug\Swap.exe
+C:\Users\hallym\Desktop\윈프 3주차\20175125\Swap\obj\Debug\Swap.pdb
+C:\Users\wlgh3\Desktop\윈프\20175125_윈프3주차\20175125\Swap\obj\Debug\Swaptest.csprojResolveAssemblyReference.cache
+C:\Users\wlgh3\Desktop\윈프\20175125_윈프3주차\20175125\Swap\obj\Debug\Swaptest.Form1.resources
+C:\Users\wlgh3\Desktop\윈프\20175125_윈프3주차\20175125\Swap\obj\Debug\Swap.Properties.Resources.resources
+C:\Users\wlgh3\Desktop\윈프\20175125_윈프3주차\20175125\Swap\obj\Debug\Swaptest.csproj.GenerateResource.cache
+C:\Users\wlgh3\Desktop\윈프\20175125_윈프3주차\20175125\Swap\obj\Debug\Swaptest.csproj.CoreCompileInputs.cache
+C:\Users\wlgh3\Desktop\윈프\20175125_윈프3주차\20175125\Swap\obj\Debug\Swap.exe
+C:\Users\wlgh3\Desktop\윈프\20175125_윈프3주차\20175125\Swap\obj\Debug\Swap.pdb
+C:\Users\wlgh3\Desktop\윈프\20175125_윈프3주차\20175125\Swap\bin\Debug\Swap.exe.config
+C:\Users\wlgh3\Desktop\윈프\20175125_윈프3주차\20175125\Swap\bin\Debug\Swap.exe
+C:\Users\wlgh3\Desktop\윈프\20175125_윈프3주차\20175125\Swap\bin\Debug\Swap.pdb

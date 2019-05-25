@@ -1,0 +1,5 @@
+C:\Users\hallym\Desktop\윈프5주차\20175125\Project1\obj\Debug\FractionProject.csprojAssemblyReference.cache
+C:\Users\hallym\Desktop\윈프5주차\20175125\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\hallym\Desktop\윈프5주차\20175125\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\hallym\Desktop\윈프5주차\20175125\Project1\obj\Debug\FractionProject.csproj.GenerateResource.cache
+C:\Users\hallym\Desktop\윈프5주차\20175125\Project1\obj\Debug\FractionProject.csproj.CoreCompileInputs.cache

@@ -1,0 +1,19 @@
+C:\Users\hallym\Desktop\윈프 3주차\20175125\numint\bin\Debug\numint.exe.config
+C:\Users\hallym\Desktop\윈프 3주차\20175125\numint\bin\Debug\numint.exe
+C:\Users\hallym\Desktop\윈프 3주차\20175125\numint\bin\Debug\numint.pdb
+C:\Users\hallym\Desktop\윈프 3주차\20175125\numint\obj\Debug\numint.Form1.resources
+C:\Users\hallym\Desktop\윈프 3주차\20175125\numint\obj\Debug\numint.Properties.Resources.resources
+C:\Users\hallym\Desktop\윈프 3주차\20175125\numint\obj\Debug\numint.csproj.GenerateResource.cache
+C:\Users\hallym\Desktop\윈프 3주차\20175125\numint\obj\Debug\numint.csproj.CoreCompileInputs.cache
+C:\Users\hallym\Desktop\윈프 3주차\20175125\numint\obj\Debug\numint.exe
+C:\Users\hallym\Desktop\윈프 3주차\20175125\numint\obj\Debug\numint.pdb
+C:\Users\wlgh3\Downloads\윈프 3주차\윈프 3주차\20175125\numint\bin\Debug\numint.exe.config
+C:\Users\wlgh3\Downloads\윈프 3주차\윈프 3주차\20175125\numint\bin\Debug\numint.exe
+C:\Users\wlgh3\Downloads\윈프 3주차\윈프 3주차\20175125\numint\bin\Debug\numint.pdb
+C:\Users\wlgh3\Downloads\윈프 3주차\윈프 3주차\20175125\numint\obj\Debug\numint.csprojResolveAssemblyReference.cache
+C:\Users\wlgh3\Downloads\윈프 3주차\윈프 3주차\20175125\numint\obj\Debug\numint.Form1.resources
+C:\Users\wlgh3\Downloads\윈프 3주차\윈프 3주차\20175125\numint\obj\Debug\numint.Properties.Resources.resources
+C:\Users\wlgh3\Downloads\윈프 3주차\윈프 3주차\20175125\numint\obj\Debug\numint.csproj.GenerateResource.cache
+C:\Users\wlgh3\Downloads\윈프 3주차\윈프 3주차\20175125\numint\obj\Debug\numint.csproj.CoreCompileInputs.cache
+C:\Users\wlgh3\Downloads\윈프 3주차\윈프 3주차\20175125\numint\obj\Debug\numint.exe
+C:\Users\wlgh3\Downloads\윈프 3주차\윈프 3주차\20175125\numint\obj\Debug\numint.pdb
